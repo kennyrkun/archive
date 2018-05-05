@@ -1,0 +1,154 @@
+1.0.0: 
+- initial release. did nothing but say "this is some fun stuff, eh?"
+
+1.0.0a: 
+- added title
+- fixed usage on other computers
+
+1.0.0b: 
+- fixed nan breaking the fuck
+
+1.0.1:
+- added built in error support
+- maybe soon some built in reporting?
+
+1.0.2:
+- starting working on the adventure branch
+
+1.0.3: 
+- added a rickroll device.
+
+1.0.6:
+- added the entirety of Logan's Choice, but if you select 2 your computer will shutdown.
+
+1.0.7: 
+- added 420 egg which spams smoke weed
+- changed 69 to open gloryholefoundation.com
+- cleaned up adventureStart branch
+
+1.0.8:
+- started work on loading sequence for adventure game and startup
+- cleaned up loading and startup code by switching to 'using namespace std;' and removing all the std::'select
+- new file loading.cpp used for loading other parts of the program, will probably be replace by in-file loading later
+- GOT TEXT WORKING!! YAAAS
+
+1.1.0:
+- fixed bug where entering something that wasn't an egg caused a crash.
+- added FunStuff egg that restarts the program.
+- fixed some unintended crashes
+- added pin to adventure protection, it's 6914
+- fixed adventure loading being displayed before the passcode was validated.
+- wondered how to get FunStuff to restart it.
+
+1.1.3:
+- removed rickroll.cpp and weed.cpp 
+- moved rickroll and 420 codes into their respective functions in the main .cpp file for optimization or something
+- started being serious about the adventure mini-game
+- added the asciiConverter as a command
+- removed extra funStuffMain();
+- removed unused 'int rickroll();' and 'int weed();'
+- made weed and rickroll go on forever.
+
+8/20/16 1.1.5:
+- put project on github lol
+
+- started working on the project again.
+- general code cleanup
+	- added std:: to all input/output operations for future stability.
+		- removed "using namespace std;" in all known occurences.
+
+- changed startup text to "please input a keyword or command" from "please input a character or command"
+
+8/27/16 1.1.5a
+- removed endline from version keyword
+
+- changed programMain from "int" to "void"
+
+- added something that will be worked on later. no hints for now. ;)
+- the program now checks to make sure the pin is entered correctly, and says if it's not rather than reseting.
+
+8/27/16 1.1.5a
+- added comments in places that I coulnd't figure out did what
+- general cleanup
+	- restructured somethings, and cleanup some others.
+
+9/1-3/16 1.1.51
+- added unfinished area where some unfinished things will go along with things I am testing.
+	- added file "unfinished.cpp"
+
+- added abort shutdown function for all instances of " system("shutdown"); "
+	- logan's choice
+	- kys keyword
+
+- added parameters to exit command on line 176
+- added a wait for FunStuff key
+
+- got a proper waitFor function and replaced all system("ping") instances.
+
+- cleaned resource.h
+- created and initialized variable "number" on line 82
+- moved #include for <string> to stdafx
+
+- removed "14" secret area
+- removed 69 keyword
+- removed divideByZero keyword
+- removed unused rickroll stuff
+- removed some unnecessary comments
+- removed error reporty thingy
+
+- fixed an issue with the 100 counter starting at 1 not zero
+
+10/8/16 1.2.0
+* updated to version 1.2.0
+* updated stdafx.h
+* updated project files
+
+* general code cleanup.
+  - put stuff that needed to be in stdafx in there
+  - added "#include "functions.h"" in every file except stdafx
+  - converted functions to the library
+    - version
+
+* add functions.h
+- added function library from ConsoleApplicationBase
+  - edited code to make use of said library.
+  - removed custom functions for favour of appBase
+
+- removed unused and dumb functions.
+- removed unfinished.cpp
+
+* updated change.log
+* will update README soon
+
+10/20/16 1.5.0 - MASSIVE OVERHAUL
+* moved to the ConsoleApplicationsBase engine.
+  - app_core.hpp
+  - app_core.cpp
+
+* cleaned up and rewrote almost every file
+
+* added a startup animation
+  - pretty neat ascii art
+
+- removed version information stuff
+- removed uses of std::cin in favour of getline()
+- removed unused functions FunStuff.cpp
+- moved forward definitions to app_core.hpp
+
+logansChoice
+ - converted function to void
+ - removed all uses of system()
+ - made the global namespace nice and clean :D
+ - changed system() functions to use their respective replacements
+ - compresed it down to one functions
+ - use strings instead of numbers.
+ - added an else statement if user did not enter the correct input.
+ - made it behave better, and look nicer
+   - properly timed waits and clearScreens
+
+- removed unused files
+  - unfinished.cpp
+  - stdafx.h
+  - stdafx.cpp
+  - runtime.bat
+  - targetver.h
