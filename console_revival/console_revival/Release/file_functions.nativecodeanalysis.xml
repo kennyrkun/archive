@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>p:\vs projects\c++\console_revival\console_revival\</FILEPATH>
+      <FILENAME>file_functions.cpp</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'file' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '23' of 'p:\vs projects\c++\console_revival\console_revival\file_functions.cpp'.</DESCRIPTION>
+    <FUNCTION>fileManager</FUNCTION>
+    <DECORATED>?fileManager@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>23</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>p:\vs projects\c++\console_revival\console_revival\</FILEPATH>
+        <FILENAME>file_functions.cpp</FILENAME>
+        <LINE>23</LINE>
+        <COLUMN>33</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>p:\vs projects\c++\console_revival\console_revival\</FILEPATH>
+      <FILENAME>file_functions.cpp</FILENAME>
+      <LINE>49</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'file' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '23' of 'p:\vs projects\c++\console_revival\console_revival\file_functions.cpp'.</DESCRIPTION>
+    <FUNCTION>fileManager</FUNCTION>
+    <DECORATED>?fileManager@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>23</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>p:\vs projects\c++\console_revival\console_revival\</FILEPATH>
+        <FILENAME>file_functions.cpp</FILENAME>
+        <LINE>23</LINE>
+        <COLUMN>33</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>p:\vs projects\c++\console_revival\console_revival\</FILEPATH>
+      <FILENAME>file_functions.cpp</FILENAME>
+      <LINE>67</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'file' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '23' of 'p:\vs projects\c++\console_revival\console_revival\file_functions.cpp'.</DESCRIPTION>
+    <FUNCTION>fileManager</FUNCTION>
+    <DECORATED>?fileManager@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>23</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>p:\vs projects\c++\console_revival\console_revival\</FILEPATH>
+        <FILENAME>file_functions.cpp</FILENAME>
+        <LINE>23</LINE>
+        <COLUMN>33</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

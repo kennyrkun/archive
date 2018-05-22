@@ -1,0 +1,42 @@
+﻿  app_core.cpp
+p:\c++\console_revival\console_revival\app_core.hpp(4): error C2039: 'string': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+p:\c++\console_revival\console_revival\app_core.hpp(4): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+p:\c++\console_revival\console_revival\app_core.hpp(4): error C2146: syntax error: missing ';' before identifier 'g_botName'
+p:\c++\console_revival\console_revival\app_core.hpp(4): error C2440: 'initializing': cannot convert from 'const char [8]' to 'int'
+  p:\c++\console_revival\console_revival\app_core.hpp(4): note: There is no context in which this conversion is possible
+p:\c++\console_revival\console_revival\app_core.hpp(9): error C2039: 'string': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+p:\c++\console_revival\console_revival\app_core.hpp(9): error C2146: syntax error: missing ')' before identifier 'file'
+  bot.cpp
+p:\c++\console_revival\console_revival\app_core.hpp(4): error C2039: 'string': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+p:\c++\console_revival\console_revival\app_core.hpp(4): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+p:\c++\console_revival\console_revival\app_core.hpp(4): error C2146: syntax error: missing ';' before identifier 'g_botName'
+p:\c++\console_revival\console_revival\app_core.hpp(4): error C2440: 'initializing': cannot convert from 'const char [8]' to 'int'
+  p:\c++\console_revival\console_revival\app_core.hpp(4): note: There is no context in which this conversion is possible
+p:\c++\console_revival\console_revival\app_core.hpp(9): error C2039: 'string': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+p:\c++\console_revival\console_revival\app_core.hpp(9): error C2146: syntax error: missing ')' before identifier 'file'
+  file_functions.cpp
+p:\c++\console_revival\console_revival\app_core.hpp(4): error C2039: 'string': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+p:\c++\console_revival\console_revival\app_core.hpp(4): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+p:\c++\console_revival\console_revival\app_core.hpp(4): error C2146: syntax error: missing ';' before identifier 'g_botName'
+p:\c++\console_revival\console_revival\app_core.hpp(4): error C2440: 'initializing': cannot convert from 'const char [8]' to 'int'
+  p:\c++\console_revival\console_revival\app_core.hpp(4): note: There is no context in which this conversion is possible
+p:\c++\console_revival\console_revival\app_core.hpp(9): error C2039: 'string': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+p:\c++\console_revival\console_revival\app_core.hpp(9): error C2146: syntax error: missing ')' before identifier 'file'
+  main.cpp
+p:\c++\console_revival\console_revival\app_core.hpp(4): error C2039: 'string': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+p:\c++\console_revival\console_revival\app_core.hpp(4): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+p:\c++\console_revival\console_revival\app_core.hpp(4): error C2146: syntax error: missing ';' before identifier 'g_botName'
+p:\c++\console_revival\console_revival\app_core.hpp(4): error C2440: 'initializing': cannot convert from 'const char [8]' to 'int'
+  p:\c++\console_revival\console_revival\app_core.hpp(4): note: There is no context in which this conversion is possible
+p:\c++\console_revival\console_revival\app_core.hpp(9): error C2039: 'string': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+p:\c++\console_revival\console_revival\app_core.hpp(9): error C2146: syntax error: missing ')' before identifier 'file'
+main.cpp(39): error C3861: 'fileManager': identifier not found
+main.cpp(60): error C3861: 'fileManager': identifier not found

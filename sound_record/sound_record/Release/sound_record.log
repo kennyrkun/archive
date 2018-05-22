@@ -1,0 +1,11 @@
+﻿  main.cpp
+main.cpp(20): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(47): warning C4189: 'button1disabled': local variable is initialized but not referenced
+main.cpp(306): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+     Creating library P:\C++\sound_record\Release\sound_record.lib and object P:\C++\sound_record\Release\sound_record.exp
+  Generating code
+  1 of 194 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  sound_record.vcxproj -> P:\C++\sound_record\Release\sound_record.exe
