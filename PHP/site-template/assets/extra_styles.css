@@ -1,0 +1,47 @@
+	#sectiontitle {
+		width:1250px;
+		float:left;
+		padding:10px; 
+		font-family: "Arial", Helvetica, sans-serif;
+		position: absolute;
+		top:80;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		margin: auto;	
+	}
+
+	#section {
+		width:1250px;
+		float:left;
+		padding:10px; 
+		font-family: "Arial", Helvetica, sans-serif;
+		position: absolute;
+		top:130;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		line-height: 130%;
+		margin: auto;
+	}
+	
+	#section2 {
+		width:1250px;
+		float:left;
+		padding:10px; 
+		font-family: "Arial", Helvetica, sans-serif;
+		position: absolute;
+		top:180;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		margin: auto;
+	}
+
+	body {
+		margin: 0;
+		padding: 0;
+		background-color:ECEEF0;
+		font-family: 'Oswald', sans-serif;
+		font-size: 1.2em;
+	}

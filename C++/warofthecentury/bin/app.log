@@ -1,0 +1,150 @@
+---new session---
+engine is ready.
+player lost 10 health and now has öhealth
+checking if new player...
+not a new player, opening main menu.
+fetching main menu
+---new session---
+engine is ready.
+player lost 10 health and now has öhealth
+checking if new player...
+not a new player, opening main menu.
+fetching main menu
+user: 1
+---new session---
+engine is ready.
+player lost 10 health and now has öhealth
+checking if new player...
+not a new player, opening main menu.
+fetching main menu
+user: 1
+---new session---
+engine is ready.
+player lost 10 health and now has öhealth
+checking if new player...
+not a new player, opening main menu.
+fetching main menu
+user: 2
+user: y
+deleting all progress and starting over... :'(
+changing first_time to false...
+done!
+player health set to 100
+now in chapter1, section1.
+saved at chapter1  section1
+now in chapter1, section2.
+saved at chapter1  section2
+now in chapter1, section3.
+saved at chapter1  section3
+now in chapter2, section1.
+saved at chapter2  section1
+now in chapter2, section2.
+saved at chapter2  section2
+now in chapter2, section3.
+saved at chapter2  section3
+now in chapter3, section1.
+saved at chapter3  section1
+now in chapter3, section2.
+saved at chapter3  section2
+now in chapter3, section3.
+saved at chapter3  section3
+---new session---
+engine is ready.
+player lost 10 health and now has öhealth
+checking if new player...
+not a new player, opening main menu.
+fetching main menu
+user: 1
+---new session---
+engine is ready.
+player lost 10 health and now has öhealth
+checking if new player...
+not a new player, opening main menu.
+fetching main menu
+user: 1
+---new session---
+engine is ready.
+player lost 10 health and now has -10health
+checking if new player...
+not a new player, opening main menu.
+fetching main menu
+user: 1
+---new session---
+engine is ready.
+player lost 10 health and now has -10health
+checking if new player...
+not a new player, opening main menu.
+fetching main menu
+user: 1
+---new session---
+engine is ready.
+player lost 10 health and now has -10health
+checking if new player...
+not a new player, opening main menu.
+fetching main menu
+user: 1
+---new session---
+engine is ready.
+player lost 10 health and now has -10health
+checking if new player...
+not a new player, opening main menu.
+fetching main menu
+user: 1
+---new session---
+engine is ready.
+player lost 10 health and now has -10health
+checking if new player...
+not a new player, opening main menu.
+fetching main menu
+user: 1
+---new session---
+engine is ready.
+player lost 10 health and now has -10health
+checking if new player...
+not a new player, opening main menu.
+fetching main menu
+user: 1
+player health set to 100
+loading chapter=chapter3, section=section3, player health is 100.
+now in chapter3, section3.
+saved at chapter3  section3
+---new session---
+engine is ready.
+player lost 10 health and now has -10health
+checking if new player...
+not a new player, opening main menu.
+fetching main menu
+user: 1
+loading , , player health is .
+tried to load a chapter, but got an invalid chapter name!
+---new session---
+engine is ready.
+player lost 10 health and now has -10health
+checking if new player...
+not a new player, opening main menu.
+fetching main menu
+---new session---
+engine is ready.
+player lost 10 health and now has -10health
+checking if new player...
+not a new player, opening main menu.
+fetching main menu
+user: 2
+user: y
+deleting all progress and starting over... :'(
+changing first_time to false...
+done!
+player health set to 100
+now in chapter1, section1.
+saved at chapter1  section1
+tried to load a chapter, but got an invalid chapter name!
+---new session---
+engine is ready.
+player lost 10 health and now has -10health
+checking if new player...
+not a new player, opening main menu.
+fetching main menu
+user: 1
+player health set to 100
+loading chapter=chapter1, section=section1, player health is 100.
+tried to load a chapter, but got an invalid chapter name!
